@@ -24,7 +24,7 @@ Welcome to my GitHub profile. Feel free to explore my projects and connect with 
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="Redux" title="Redux"/>
 	<img width="50" src="https://user-images.githubusercontent.com/36799589/69492522-e6b41b80-0ec9-11ea-90d3-b37bacad7ca8.png" alt="Redux-Saga" title="Redux-Saga"/>
-	<img width="50" src="https://user-images.githubusercontent.com/25181517/191095814-fc63c4d4-8b92-44d4-926e-4571cd5c56c5.png" alt="Gatsby" title="Gatsby"/>
+	<img width="50" src="https://upload.wikimedia.org/wikipedia/en/d/d0/Gatsby_Logo.png" alt="Gatsby" title="Gatsby"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" title="npm"/>
 	<img width="50" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/>
