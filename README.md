@@ -8,7 +8,7 @@ Welcome to my GitHub profile. Feel free to explore my projects and connect with 
 - 🌱 I’m currently learning **Next.js** **Angular** **Node.js**
 - 👯 I’m open to **new collaborations and projects, and I'm ready for challenges.**
 - 🤔 I’m looking for help with **exploring new coding horizons, collaborating on innovative projects, and sharing insights on the latest tech trends.**
-- 💬 Ask me about **my journey from the high seas as a ship officer to the world of web development! I'm also happy to chat about HTML, CSS, JavaScript, React, React Native, Redux and anything related to creating exciting user experiences.**
+- 💬 Ask me about **my journey from the high seas as a ship officer to the world of web development! I'm also happy to chat about HTML, CSS, JavaScript, Typescript, Vue.js, React, React Native, Redux and anything related to creating exciting user experiences.**
 - 📫 How to reach me: **varosianarmen92@gmail.com**
 - ⚡ Fun fact: **I can write code while enjoying a cup of coffee that's precisely at 60°C – the perfect temperature for both creativity and caffeination! ☕️👨‍💻**
 
